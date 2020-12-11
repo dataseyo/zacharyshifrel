@@ -7,15 +7,15 @@
 
 **Learning ML** 
 
-- Interpretable ML: https://christophm.github.io/interpretable-ml-book/
+- [Interpretable ML book](https://christophm.github.io/interpretable-ml-book/)
 
 
 **ML in Physics**
 
-- Particle physics paper list: https://iml-wg.github.io/HEPML-LivingReview/
+- [ML in particle physics paper list](https://iml-wg.github.io/HEPML-LivingReview/)
 - 
 
 **Physics**
 
 - 
-
+- [Lectures on Quantum Phases of Matter](https://www.youtube.com/playlist?list=PLcD25rnTeV9jhSKskNT4xzlNxw3REcxnS)
