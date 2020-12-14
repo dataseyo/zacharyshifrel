@@ -19,3 +19,7 @@
 
 - 
 - [Lectures on Quantum Phases of Matter](https://www.youtube.com/playlist?list=PLcD25rnTeV9jhSKskNT4xzlNxw3REcxnS)
+
+**Julia**
+
+- [Computational thinking in julia](https://computationalthinking.mit.edu/Fall20/)
