@@ -23,3 +23,4 @@
 **Julia**
 
 - [Computational thinking in julia](https://computationalthinking.mit.edu/Fall20/)
+- [Genie](https://genieframework.com/) (for developing web apps in Julia)
