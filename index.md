@@ -24,3 +24,5 @@
 
 - [Computational thinking in julia](https://computationalthinking.mit.edu/Fall20/)
 - [Genie](https://genieframework.com/) (for developing web apps in Julia)
+- [Interact: Julia web widgets](https://github.com/JuliaGizmos/Interact.jl)
+- [Makie: scientific plots in julia](https://github.com/JuliaPlots/Makie.jl)
