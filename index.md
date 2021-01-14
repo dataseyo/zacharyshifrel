@@ -37,3 +37,8 @@
 
 - [Repl](https://repl.it/) (code in browser)
 - [Xeus](https://github.com/jupyter-xeus/xeus) (C++ implementation in Jupyter!!!!)
+
+
+**Fun**
+
+- [Pokemon Showdown](https://play.pokemonshowdown.com/)
