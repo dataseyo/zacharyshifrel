@@ -28,3 +28,7 @@
 - [Makie](https://github.com/JuliaPlots/Makie.jl) (for scientific plots)
 - [Parallel computing and scientific machine learning lectures](https://github.com/mitmath/18337)
 - [Julia Books](https://julialang.org/learning/books/)
+
+**Python**
+
+- 
