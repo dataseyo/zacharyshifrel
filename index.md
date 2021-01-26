@@ -32,7 +32,7 @@
 **Python**
 
 - [python cheatsheet](https://gto76.github.io/python-cheatsheet/)
-
+- [practice python](https://www.practicepython.org/)
 **C/C++**
 
 - [Repl](https://repl.it/) (code in browser)
