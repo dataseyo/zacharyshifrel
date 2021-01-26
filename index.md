@@ -31,7 +31,7 @@
 
 **Python**
 
--[python cheatsheet](https://gto76.github.io/python-cheatsheet/)
+- [python cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 **C/C++**
 
