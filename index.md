@@ -36,9 +36,11 @@
 
 **C/C++**
 
-- [Repl](https://repl.it/) (code in browser)
 - [Xeus](https://github.com/jupyter-xeus/xeus) (C++ implementation in Jupyter!!!!)
 
+**General CS*
+- [Papers with code](https://paperswithcode.com/) and [datasets](https://paperswithcode.com/datasets)
+- [Repl](https://repl.it/) (code in browser)
 
 **Fun**
 
