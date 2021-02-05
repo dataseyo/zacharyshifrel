@@ -33,6 +33,7 @@
 
 - [python cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [practice python](https://www.practicepython.org/)
+- [algo trading bot](https://conorjohanlon.com/lets-design-part-1/)
 
 **C/C++**
 
