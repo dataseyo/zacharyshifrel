@@ -41,6 +41,7 @@
 **General CS**
 - [Papers with code](https://paperswithcode.com/) and [datasets](https://paperswithcode.com/datasets)
 - [Repl](https://repl.it/) (code in browser)
+- [Dev Resources](https://devresourc.es/)
 
 **Fun**
 
