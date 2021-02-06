@@ -37,6 +37,7 @@
 - [practice python](https://www.practicepython.org/)
 - [algo trading bot](https://conorjohanlon.com/lets-design-part-1/)
 - [algo trading Robinhood API](https://algotrading101.com/learn/robinhood-api-guide/)
+- [alpaca algo trading API](https://github.com/alpacahq/alpaca-trade-api-python)
 
 **C/C++**
 
