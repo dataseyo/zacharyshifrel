@@ -23,11 +23,13 @@
 **Julia**
 
 - [Computational thinking in julia](https://computationalthinking.mit.edu/Fall20/)
+- [Julia for scientific computing](https://github.com/UCIDataScienceInitiative/IntroToJulia) and [notebook](http://ucidatascienceinitiative.github.io/IntroToJulia/)
 - [Genie](https://genieframework.com/) (for developing web apps in Julia)
 - [Interact](https://github.com/JuliaGizmos/Interact.jl) (for quickly making web widgets)
 - [Makie](https://github.com/JuliaPlots/Makie.jl) (for scientific plots)
 - [Parallel computing and scientific machine learning lectures](https://github.com/mitmath/18337)
 - [Julia Books](https://julialang.org/learning/books/)
+
 
 **Python**
 
