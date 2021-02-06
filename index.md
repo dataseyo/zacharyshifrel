@@ -34,6 +34,7 @@
 - [python cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [practice python](https://www.practicepython.org/)
 - [algo trading bot](https://conorjohanlon.com/lets-design-part-1/)
+- [algo trading Robinhood API](https://algotrading101.com/learn/robinhood-api-guide/)
 
 **C/C++**
 
