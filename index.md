@@ -3,8 +3,6 @@
 
 ### Some Resources
 
-
-
 **Learning ML** 
 
 - [Interpretable ML book](https://christophm.github.io/interpretable-ml-book/)
