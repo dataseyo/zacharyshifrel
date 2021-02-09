@@ -49,6 +49,7 @@
 - [Repl](https://repl.it/) (code in browser)
 - [Dev Resources](https://devresourc.es/)
 - [heroku](https://www.heroku.com/)
+- [git book](https://git-scm.com/book/en/v2)
 
 **Fun**
 
