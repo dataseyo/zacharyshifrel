@@ -51,6 +51,10 @@
 - [heroku](https://www.heroku.com/)
 - [dev docs](https://devdocs.io/)
 
+**CSS and HTML**
+- [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 **Fun**
 
 - [Pokemon Showdown](https://play.pokemonshowdown.com/)
