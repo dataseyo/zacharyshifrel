@@ -49,6 +49,7 @@
 - [Repl](https://repl.it/) (code in browser)
 - [Dev Resources](https://devresourc.es/)
 - [heroku](https://www.heroku.com/)
+- [dev docs](https://devdocs.io/)
 
 **Fun**
 
