@@ -48,6 +48,7 @@
 - [Dev Resources](https://devresourc.es/)
 - [heroku](https://www.heroku.com/)
 - [dev docs](https://devdocs.io/)
+- [jsfiddle](https://jsfiddle.net/)
 
 **CSS and HTML**
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
