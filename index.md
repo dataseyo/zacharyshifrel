@@ -56,6 +56,10 @@
 - [grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [freecodecamp](https://www.freecodecamp.org/learn)
 
+**React**
+- [react native roadmap](https://github.com/hayanisaid/React-Native-developer-roadmap)
+- [expo](https://expo.io/)
+
 **Fun**
 
 - [Pokemon Showdown](https://play.pokemonshowdown.com/)
